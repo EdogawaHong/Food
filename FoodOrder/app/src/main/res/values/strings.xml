@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="welcome">Welcome</string>
+    <string name="order">ORDER</string>
+    <string name="totalprice">Total Price</string>
+    <string name="price">0$</string>
+</resources>
